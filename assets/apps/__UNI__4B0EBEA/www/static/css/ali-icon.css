@@ -1,0 +1,15 @@
+@font-face {
+  font-family: 'iconfont';  /* Project id 3447315 */
+  src: url('https://qiniufile.beijingchuangyou.com/css/iconfont.woff2?t=34') format('woff2'),
+       url('https://qiniufile.beijingchuangyou.com/css/iconfont.woff?t=34') format('woff'),
+       url('https://qiniufile.beijingchuangyou.com/css/iconfont.ttf?t=34') format('truetype'); 
+}
+
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
